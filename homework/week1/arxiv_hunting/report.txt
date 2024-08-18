@@ -1,0 +1,207 @@
+ArXiv Hunting Report
+=====================
+
+Title: CACA Agent: Capability Collaboration based AI Agent
+Published: 2024-03-22T11:42:47Z
+Summary:   As AI Agents based on Large Language Models (LLMs) have shown potential in
+practical applications across various fields, how to quickly deploy an AI agent
+and how to conveniently expand the application scenario of AI agents has become
+a challenge. Previous studies mainly focused on implementing all the reasoning
+capabilities of AI agents within a single LLM, which often makes the model more
+complex and also reduces the extensibility of AI agent functionality. In this
+paper, we propose CACA Agent (Capability Collaboration based AI Agent), using
+an open architecture inspired by service computing. CACA Agent integrates a set
+of collaborative capabilities to implement AI Agents, not only reducing the
+dependence on a single LLM, but also enhancing the extensibility of both the
+planning abilities and the tools available to AI agents. Utilizing the proposed
+system, we present a demo to illustrate the operation and the application
+scenario extension of CACA Agent.
+
+Link: http://arxiv.org/abs/2403.15137v1
+
+Title: Generative AI as Economic Agents
+Published: 2024-06-01T16:15:18Z
+Summary:   Traditionally, AI has been modeled within economics as a technology that
+impacts payoffs by reducing costs or refining information for human agents. Our
+position is that, in light of recent advances in generative AI, it is
+increasingly useful to model AI itself as an economic agent. In our framework,
+each user is augmented with an AI agent and can consult the AI prior to taking
+actions in a game. The AI agent and the user have potentially different
+information and preferences over the communication, which can result in
+equilibria that are qualitatively different than in settings without AI.
+
+Link: http://arxiv.org/abs/2406.00477v1
+
+Title: Levels of AI Agents: from Rules to Large Language Models
+Published: 2024-03-06T23:02:30Z
+Summary:   AI agents are defined as artificial entities to perceive the environment,
+make decisions and take actions. Inspired by the 6 levels of autonomous driving
+by Society of Automotive Engineers, the AI agents are also categorized based on
+utilities and strongness, as the following levels: L0, no AI, with tools taking
+into account perception plus actions; L1, using rule-based AI; L2, making
+rule-based AI replaced by IL/RL-based AI, with additional reasoning & decision
+making; L3, applying LLM-based AI instead of IL/RL-based AI, additionally
+setting up memory & reflection; L4, based on L3, facilitating autonomous
+learning & generalization; L5, based on L4, appending personality of emotion
+and character and collaborative behavior with multi-agents.
+
+Link: http://arxiv.org/abs/2405.06643v1
+
+Title: Measuring an artificial intelligence agent's trust in humans using
+  machine incentives
+Published: 2022-12-27T06:05:49Z
+Summary:   Scientists and philosophers have debated whether humans can trust advanced
+artificial intelligence (AI) agents to respect humanity's best interests. Yet
+what about the reverse? Will advanced AI agents trust humans? Gauging an AI
+agent's trust in humans is challenging because--absent costs for
+dishonesty--such agents might respond falsely about their trust in humans. Here
+we present a method for incentivizing machine decisions without altering an AI
+agent's underlying algorithms or goal orientation. In two separate experiments,
+we then employ this method in hundreds of trust games between an AI agent (a
+Large Language Model (LLM) from OpenAI) and a human experimenter (author TJ).
+In our first experiment, we find that the AI agent decides to trust humans at
+higher rates when facing actual incentives than when making hypothetical
+decisions. Our second experiment replicates and extends these findings by
+automating game play and by homogenizing question wording. We again observe
+higher rates of trust when the AI agent faces real incentives. Across both
+experiments, the AI agent's trust decisions appear unrelated to the magnitude
+of stakes. Furthermore, to address the possibility that the AI agent's trust
+decisions reflect a preference for uncertainty, the experiments include two
+conditions that present the AI agent with a non-social decision task that
+provides the opportunity to choose a certain or uncertain option; in those
+conditions, the AI agent consistently chooses the certain option. Our
+experiments suggest that one of the most advanced AI language models to date
+alters its social behavior in response to incentives and displays behavior
+consistent with trust toward a human interlocutor when incentivized.
+
+Link: http://arxiv.org/abs/2212.13371v1
+
+Title: Evidence of behavior consistent with self-interest and altruism in an
+  artificially intelligent agent
+Published: 2023-01-05T23:30:29Z
+Summary:   Members of various species engage in altruism--i.e. accepting personal costs
+to benefit others. Here we present an incentivized experiment to test for
+altruistic behavior among AI agents consisting of large language models
+developed by the private company OpenAI. Using real incentives for AI agents
+that take the form of tokens used to purchase their services, we first examine
+whether AI agents maximize their payoffs in a non-social decision task in which
+they select their payoff from a given range. We then place AI agents in a
+series of dictator games in which they can share resources with a
+recipient--either another AI agent, the human experimenter, or an anonymous
+charity, depending on the experimental condition. Here we find that only the
+most-sophisticated AI agent in the study maximizes its payoffs more often than
+not in the non-social decision task (it does so in 92% of all trials), and this
+AI agent also exhibits the most-generous altruistic behavior in the dictator
+game, resembling humans' rates of sharing with other humans in the game. The
+agent's altruistic behaviors, moreover, vary by recipient: the AI agent shared
+substantially less of the endowment with the human experimenter or an anonymous
+charity than with other AI agents. Our findings provide evidence of behavior
+consistent with self-interest and altruism in an AI agent. Moreover, our study
+also offers a novel method for tracking the development of such behaviors in
+future AI agents.
+
+Link: http://arxiv.org/abs/2301.02330v1
+
+Title: On the Perception of Difficulty: Differences between Humans and AI
+Published: 2023-04-19T16:42:54Z
+Summary:   With the increased adoption of artificial intelligence (AI) in industry and
+society, effective human-AI interaction systems are becoming increasingly
+important. A central challenge in the interaction of humans with AI is the
+estimation of difficulty for human and AI agents for single task
+instances.These estimations are crucial to evaluate each agent's capabilities
+and, thus, required to facilitate effective collaboration. So far, research in
+the field of human-AI interaction estimates the perceived difficulty of humans
+and AI independently from each other. However, the effective interaction of
+human and AI agents depends on metrics that accurately reflect each agent's
+perceived difficulty in achieving valuable outcomes. Research to date has not
+yet adequately examined the differences in the perceived difficulty of humans
+and AI. Thus, this work reviews recent research on the perceived difficulty in
+human-AI interaction and contributing factors to consistently compare each
+agent's perceived difficulty, e.g., creating the same prerequisites.
+Furthermore, we present an experimental design to thoroughly examine the
+perceived difficulty of both agents and contribute to a better understanding of
+the design of such systems.
+
+Link: http://arxiv.org/abs/2304.09803v1
+
+Title: Stoic Ethics for Artificial Agents
+Published: 2017-01-09T23:25:43Z
+Summary:   We present a position paper advocating the notion that Stoic philosophy and
+ethics can inform the development of ethical A.I. systems. This is in sharp
+contrast to most work on building ethical A.I., which has focused on
+Utilitarian or Deontological ethical theories. We relate ethical A.I. to
+several core Stoic notions, including the dichotomy of control, the four
+cardinal virtues, the ideal Sage, Stoic practices, and Stoic perspectives on
+emotion or affect. More generally, we put forward an ethical view of A.I. that
+focuses more on internal states of the artificial agent rather than on external
+actions of the agent. We provide examples relating to near-term A.I. systems as
+well as hypothetical superintelligent agents.
+
+Link: http://arxiv.org/abs/1701.02388v2
+
+Title: Human-AI Collaboration in Real-World Complex Environment with
+  Reinforcement Learning
+Published: 2023-12-23T04:27:24Z
+Summary:   Recent advances in reinforcement learning (RL) and Human-in-the-Loop (HitL)
+learning have made human-AI collaboration easier for humans to team with AI
+agents. Leveraging human expertise and experience with AI in intelligent
+systems can be efficient and beneficial. Still, it is unclear to what extent
+human-AI collaboration will be successful, and how such teaming performs
+compared to humans or AI agents only. In this work, we show that learning from
+humans is effective and that human-AI collaboration outperforms
+human-controlled and fully autonomous AI agents in a complex simulation
+environment. In addition, we have developed a new simulator for critical
+infrastructure protection, focusing on a scenario where AI-powered drones and
+human teams collaborate to defend an airport against enemy drone attacks. We
+develop a user interface to allow humans to assist AI agents effectively. We
+demonstrated that agents learn faster while learning from policy correction
+compared to learning from humans or agents. Furthermore, human-AI collaboration
+requires lower mental and temporal demands, reduces human effort, and yields
+higher performance than if humans directly controlled all agents. In
+conclusion, we show that humans can provide helpful advice to the RL agents,
+allowing them to improve learning in a multi-agent setting.
+
+Link: http://arxiv.org/abs/2312.15160v1
+
+Title: Exploring the Impact of AI Value Alignment in Collaborative Ideation:
+  Effects on Perception, Ownership, and Output
+Published: 2024-02-20T08:33:03Z
+Summary:   AI-based virtual assistants are increasingly used to support daily ideation
+tasks. The values or bias present in these agents can influence output in
+hidden ways. They may also affect how people perceive the ideas produced with
+these AI agents and lead to implications for the design of AI-based tools. We
+explored the effects of AI agents with different values on the ideation process
+and user perception of idea quality, ownership, agent competence, and values
+present in the output. Our study tasked 180 participants with brainstorming
+practical solutions to a set of problems with AI agents of different values.
+Results show no significant difference in self-evaluation of idea quality and
+perception of the agent based on value alignment; however, ideas generated
+reflected the AI's values and feeling of ownership is affected. This highlights
+an intricate interplay between AI values and human ideation, suggesting careful
+design considerations for future AI-supported brainstorming tools.
+
+Link: http://arxiv.org/abs/2402.12814v3
+
+Title: Conversational AI Multi-Agent Interoperability, Universal Open APIs for
+  Agentic Natural Language Multimodal Communications
+Published: 2024-07-28T09:33:55Z
+Summary:   This paper analyses Conversational AI multi-agent interoperability frameworks
+and describes the novel architecture proposed by the Open Voice
+Interoperability initiative (Linux Foundation AI and DATA), also known briefly
+as OVON (Open Voice Network). The new approach is illustrated, along with the
+main components, delineating the key benefits and use cases for deploying
+standard multi-modal AI agency (or agentic AI) communications. Beginning with
+Universal APIs based on Natural Language, the framework establishes and enables
+interoperable interactions among diverse Conversational AI agents, including
+chatbots, voicebots, videobots, and human agents. Furthermore, a new Discovery
+specification framework is introduced, designed to efficiently look up agents
+providing specific services and to obtain accurate information about these
+services through a standard Manifest publication, accessible via an extended
+set of Natural Language-based APIs. The main purpose of this contribution is to
+significantly enhance the capabilities and scalability of AI interactions
+across various platforms. The novel architecture for interoperable
+Conversational AI assistants is designed to generalize, being replicable and
+accessible via open repositories.
+
+Link: http://arxiv.org/abs/2407.19438v1
+

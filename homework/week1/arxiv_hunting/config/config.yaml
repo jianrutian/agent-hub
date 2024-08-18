@@ -1,0 +1,9 @@
+# config/config.yaml
+
+# Configuration for ArXiv Hunting
+arxiv:
+  base_url: "http://export.arxiv.org/api/query"  # ArXiv API base URL
+  max_results: 10  # Number of results to fetch
+
+# You can add other configuration items as needed
+
